@@ -1,2 +1,3 @@
 # hello-world
-this is a test
+## Purpose
+This is a collection of simple modeling approaches assembled for Sharon F.
